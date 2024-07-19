@@ -36,8 +36,8 @@ Based on the "Employee Salaries for Different Job Roles" dataset from Kaggle, Th
 5.  What are the highest and lowest salaries for each job role?
 6.  Create a summary table showing the count, average, median, and standard deviation of salaries for each job role.
 7.  Analyze the trend of salaries over time if there is a date feature in the dataset. Use a line chart to visualize the trend.
-8.   Create a histogram to visualize the distribution of salaries
-9.  Create a bar chart to show the average salary for each job role.
+8.  Create a bar chart to show the average salary for each job role.
+9.  Visualize the counts for each job roles
 
 # DATA ANALYTICS TOOLS USED
 1. Microsoft Excel
