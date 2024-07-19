@@ -49,5 +49,5 @@ Based on the "Employee Salaries for Different Job Roles" dataset from Kaggle, Th
 3. dplyr: Used to analyse, organise and manipulate data.
 4. forcats: Used to reorder the level of factor based on the values.
 
-# REMARKS
+# USAGE
 Firstly, I'm going to start my analysis using Microsoft Excel to organize, analyze, and check for any missing values and inconsistency in the data. After this session is completed, I would import the Excel file into R Studio and then continue my analysis with the help of various data analysis packages from R.
